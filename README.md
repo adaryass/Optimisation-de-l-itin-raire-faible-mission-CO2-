@@ -31,3 +31,4 @@ def main():
     print(' '.join([portnames[i] for i in bestroute]) + " %.1f kg" % smallest)
 
 main()
+'''
