@@ -1,3 +1,4 @@
+'''python
 portnames = ["PAN", "AMS", "CAS", "NYC", "HEL"]
 
 D = [
